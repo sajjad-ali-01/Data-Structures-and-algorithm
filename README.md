@@ -22,7 +22,8 @@ The repository includes the following Data Structures:
 3. **Queue**: Implementation of queue using arrays and linked lists.
 4. **Binary Tree**: Implementation of binary search tree (BST) and traversal algorithms (in-order, pre-order, post-order).
 5. **Graph**: Implementation of graph using adjacency matrix and adjacency list.
-
+6. **Operations on an Array**: Implementation of Different oprations on an array Like(**Sorting**, **Deletion**, **Insertion**, **Reverse**, **Search**).
+   
 Each Data Structure folder contains the C++ code files and a brief explanation of the implementation.
 
 ## How to Use
@@ -39,6 +40,6 @@ Feel free to modify the code or use it as a reference for your own projects.
 
 ## License
 
-This project does not require a license as it is intended for educational purposes only. It should not be used for commercial purposes without proper authorization.
+This project does not require a license as it is intended for **educational** purposes only. It should not be used for commercial purposes without proper authorization.
 
 Happy coding!
