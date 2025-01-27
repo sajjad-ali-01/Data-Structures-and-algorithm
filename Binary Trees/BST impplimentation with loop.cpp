@@ -79,6 +79,6 @@ int main()
 		cin >> data;
 		createTree(root, data);
 	}
-	preorder(root);
+	inorder(root);
 	return 0;
 }
